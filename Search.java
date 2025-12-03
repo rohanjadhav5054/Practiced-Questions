@@ -1,4 +1,5 @@
 public class Search {
+<<<<<<< HEAD
     public static void main(String[] args) {
         String name  = "charactereristics";
         char target = 's';
@@ -58,5 +59,15 @@ public class Search {
             }
         }
         return new int[][]{{-1},{-1}};
+=======
+    public static void main(String args[]){
+        String str = "abcab";
+        String str1 = "ab";
+        int n = str.length();
+        
+        for(int i = 0;i < n;i++){
+            
+        }
+>>>>>>> 7ff3904e52a356349c6dfde3ebc610c027a9b8b9
     }
 }
