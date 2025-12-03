@@ -1,4 +1,4 @@
-public class Search {
+public class OldSearch {
     public static void main(String args[]){
         String str = "abcab";
         String str1 = "ab";
