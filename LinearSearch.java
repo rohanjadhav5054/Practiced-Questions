@@ -1,5 +1,6 @@
 import java.util.Scanner;
 
+<<<<<<< HEAD
 public class LinearSearch {
 <<<<<<< HEAD
     public static void main(String[] args) {
@@ -41,6 +42,9 @@ public class LinearSearch {
     }
 }
 =======
+=======
+public class OldLinearSearch {
+>>>>>>> f4b69e26319d8451b4ca15c80a5a8b5f4251025b
     public static void main(String args[]){
         int[] arr = {3,1,5,7,2,9};
         Scanner sc = new Scanner(System.in);

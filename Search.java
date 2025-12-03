@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 public class Search {
 <<<<<<< HEAD
     public static void main(String[] args) {
@@ -60,6 +61,9 @@ public class Search {
         }
         return new int[][]{{-1},{-1}};
 =======
+=======
+public class OldSearch {
+>>>>>>> f4b69e26319d8451b4ca15c80a5a8b5f4251025b
     public static void main(String args[]){
         String str = "abcab";
         String str1 = "ab";
