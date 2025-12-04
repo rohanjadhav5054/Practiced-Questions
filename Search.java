@@ -1,6 +1,4 @@
-<<<<<<< HEAD
 public class Search {
-<<<<<<< HEAD
     public static void main(String[] args) {
         String name  = "charactereristics";
         char target = 's';
@@ -51,27 +49,14 @@ public class Search {
         return -1;
     }
     //searching in the 2D array
-    static int[][] search2DArray(int nums[][],int target){
-        for(int row = 0;row < nums.length;row++){
-            for(int column = 0;column < nums[row].length;column++){
-                if(nums[row][column] == target){
-                    return new int[][]{{row},{column}};
+    static int[][] search2DArray(int nums[][],int target) {
+        for (int row = 0; row < nums.length; row++) {
+            for (int column = 0; column < nums[row].length; column++) {
+                if (nums[row][column] == target) {
+                    return new int[][]{{row}, {column}};
                 }
             }
         }
-        return new int[][]{{-1},{-1}};
-=======
-=======
-public class OldSearch {
->>>>>>> f4b69e26319d8451b4ca15c80a5a8b5f4251025b
-    public static void main(String args[]){
-        String str = "abcab";
-        String str1 = "ab";
-        int n = str.length();
-        
-        for(int i = 0;i < n;i++){
-            
-        }
->>>>>>> 7ff3904e52a356349c6dfde3ebc610c027a9b8b9
+        return new int[][]{{-1}, {-1}};
     }
 }

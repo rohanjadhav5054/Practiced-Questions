@@ -1,6 +1,6 @@
 import java.util.Arrays;
 
-class Solution {
+public class Anagram {
     public static boolean areAnagrams(String s1, String s2) {
         // code here
         if(s1.length() != s2.length()){
