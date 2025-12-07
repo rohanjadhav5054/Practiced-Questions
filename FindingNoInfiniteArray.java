@@ -2,18 +2,22 @@ import java.util.Arrays;
 
 public class FindingNoInfiniteArray {
     public static void main(String[] args) {
-        int arr[] = { 1,2 ,3,4,5,6,7,8,9,12,15,17,18,20,23,24,27,29,31,33,34,35,37};
-        System.out.println(ans(arr,23));
+        int arr[] = {3, 5, 7, 9, 10, 90, 100, 130, 140, 160, 170};
+        System.out.println(ans(arr,(10)));
     }
     static int ans(int nums[],int target){
         int start = 0;
         int end = 1;
+        //we are starting from the smallest chunk we are checking that chunk is big enough to include the target ,
+
+        //here we decide how much the chunk we can get
         while(target > nums[end]) {
             int temp = end + 1;
 
             end = end + (end - start + 1) * 2;
             start = temp;
         }
+        // then we apply the binary search and find the index
         return searchingNo(nums,target,start,end);
     }
     static int searchingNo(int[] nums,int target,int start,int end){
