@@ -53,15 +53,15 @@ public class BinarySearch {
             }
             if(isAsc){
                 if(target < arr[mid]){
-                    end = mid - 1;
+                    end = mid - 1;//search int the left hand side
                 }else if(target > arr[mid]){
-                    start = mid + 1;
+                    start = mid + 1;//search in the right hand side
                 }
             }else{
                 if(target < arr[mid]){
-                    start = mid + 1;
+                    start = mid + 1;//search in the right hand side
                 }else{
-                    end = mid - 1;
+                    end = mid - 1;//search in the left hand side
                 }
             }
         }
