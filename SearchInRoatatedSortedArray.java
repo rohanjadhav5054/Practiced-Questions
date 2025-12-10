@@ -2,7 +2,7 @@ public class SearchInRoatatedSortedArray {
     /*
     * Leetcode 33
     *
-    * 1) find the pivot element
+    * 1) find the pivot element for finding pivot there are several cases
     * 2) use binary search search element in two half's
     *
     *  - */
