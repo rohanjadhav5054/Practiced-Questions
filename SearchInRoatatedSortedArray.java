@@ -3,6 +3,10 @@ public class SearchInRoatatedSortedArray {
     * Leetcode 33
     *
     * 1) find the pivot element for finding pivot there are several cases
+    * i) there ia one condition only where two parts are ascending and decesnding  : mid > mid + 1
+    * ii) if mid element is < mid - 1 this is also one condition
+    * iii) start >= mid  hence we can ignore right side part search only in left side part end = mid - 1
+    * iv) start < mid so we ignore left side and look in the right side start = mid + 1
     * 2) use binary search search element in two half's
     *
     *  - */
