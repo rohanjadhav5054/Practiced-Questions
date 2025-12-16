@@ -61,12 +61,14 @@ public class BinarySearchIn2DArray {
     public static int[] searchIn2D(int matrix[][],int target){
         int rows = matrix.length;
         int columns = matrix[0].length;
+        //in that if only one column is present
         if (columns == 1) {
             for (int i = 0; i < rows; i++) {
                 if (matrix[i][0] == target) return new int[]{i,0};
             }
             return new int[]{-1,-1};
         }
+        //in thT CASE only one row is present
         if(rows == 1){
             return binarysearch(matrix, 0, 0, columns - 1, target);
         }
