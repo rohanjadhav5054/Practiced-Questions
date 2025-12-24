@@ -3,8 +3,10 @@ import java.util.Arrays;
 public class Sort {
     public static void main(String[] args) {
         int nums[] = {1,2,3,4,7,5,6};
-        bubbleSort(nums);
-        selectionSort(nums);
+//        bubbleSort(nums);
+//        selectionSort(nums);
+        insersionSort(nums);
+
     }
     static void bubbleSort(int nums[]){
         boolean isSwapped;
@@ -46,7 +48,6 @@ public class Sort {
             int maxIndex = findMaxElement(nums,0,last);
             swap(nums,maxIndex,last);
         }
-
         System.out.println(Arrays.toString(nums));
     }
 
@@ -73,5 +74,27 @@ public class Sort {
         int temp = arr[first];
         arr[first] = arr[second];
         arr[second] = temp;
+    }
+
+
+    /*
+    * Insertion sort
+    * */
+
+    public static void insersionSort(int arr[]){
+        //outer loop will run into n - 2 only
+        for(int i = 0;i < arr.length - 1;i++){
+            //inner loop can run backside and try to check some condions
+            for(int j = i + 1;j > 0;j--){
+                //in first condition it will check is the arr[j] element is less then arr[j-1] if yes it will swap that element using swap function
+                if(arr[j] < arr[j - 1]){
+                    swap(arr,j,j-1);
+                }else{
+                    //otherwise it will just break the loop
+                    break;
+                }
+            }
+        }
+        System.out.println(Arrays.toString(arr));
     }
 }
