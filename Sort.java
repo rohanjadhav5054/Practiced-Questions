@@ -2,11 +2,11 @@ import java.util.Arrays;
 
 public class Sort {
     public static void main(String[] args) {
-        int nums[] = {1,2,3,4,7,5,6};
+        int nums[] = {3,4,2,1,5};
 //        bubbleSort(nums);
 //        selectionSort(nums);
-        insersionSort(nums);
-
+//        insersionSort(nums);
+        cyclicSort(nums);
     }
     static void bubbleSort(int nums[]){
         boolean isSwapped;
@@ -95,6 +95,26 @@ public class Sort {
                 }
             }
         }
+        System.out.println(Arrays.toString(arr));
+    }
+
+    /*
+    * Cyclic Sort In Java
+    * */
+    static void cyclicSort(int arr[]){
+        int i = 0;
+        //whenever numbers are in the form of 1 to N then we use cyclic sort
+        //loop will run throun i < arr.length
+        while(i < arr.length){
+            //first we find the correct index
+            int correctIndex = arr[i] - 1;
+            if(arr[i] != arr[correctIndex]){
+                swap(arr,i,correctIndex);
+            }else{
+                i++;
+            }
+        }
+
         System.out.println(Arrays.toString(arr));
     }
 }
