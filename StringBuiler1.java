@@ -1,5 +1,5 @@
 
-public class StringBuiler {
+public class StringBuiler1 {
     public static void main(String[] args) {
         StringBuffer sb = new StringBuffer();
         String name = "Rohan jadhav";
