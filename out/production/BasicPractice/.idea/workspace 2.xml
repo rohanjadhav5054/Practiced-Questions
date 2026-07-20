@@ -1,0 +1,219 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="e5fcef36-59a8-44c9-a647-5e0c8dfdf3f3" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;rohanjadhav5054&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/rohanjadhav5054/Practiced-Questions&quot;,
+    &quot;accountId&quot;: &quot;2f017c91-94f4-4bc4-ba72-928a78c102cc&quot;
+  }
+}</component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="jar:///Library/Java/JavaVirtualMachines/jdk-23.jdk/Contents/Home/lib/src.zip!/java.base/java/io/FileInputStream.java" root0="SKIP_INSPECTION" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 1
+}</component>
+  <component name="ProjectId" id="368Zj37ZHpcF0t2GhrI5IPvLJM3" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showVisibilityIcons" value="true" />
+    <option name="sortKey" value="BY_TIME_DESCENDING" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.ArmstrongNumber.executor&quot;: &quot;Run&quot;,
+    &quot;Application.BinarySearch.executor&quot;: &quot;Run&quot;,
+    &quot;Application.BinarySearchIn2DArray.executor&quot;: &quot;Run&quot;,
+    &quot;Application.BubbleSort.executor&quot;: &quot;Run&quot;,
+    &quot;Application.CeilingOfArray.executor&quot;: &quot;Run&quot;,
+    &quot;Application.EvenDigits.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ExCaseCheck.executor&quot;: &quot;Run&quot;,
+    &quot;Application.FibonacciNumbers.executor&quot;: &quot;Run&quot;,
+    &quot;Application.FindDuplicate.executor&quot;: &quot;Run&quot;,
+    &quot;Application.FindThePeakElementInMountainArray.executor&quot;: &quot;Run&quot;,
+    &quot;Application.FindUnique.executor&quot;: &quot;Debug&quot;,
+    &quot;Application.FindingMinNumber.executor&quot;: &quot;Run&quot;,
+    &quot;Application.FindingNoInfiniteArray.executor&quot;: &quot;Run&quot;,
+    &quot;Application.FirstAndLastPosition.executor&quot;: &quot;Run&quot;,
+    &quot;Application.FirstFollow.executor&quot;: &quot;Run&quot;,
+    &quot;Application.FloorOfTheArray.executor&quot;: &quot;Run&quot;,
+    &quot;Application.HashSetPractice.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Input.executor&quot;: &quot;Run&quot;,
+    &quot;Application.JavaString.executor&quot;: &quot;Run&quot;,
+    &quot;Application.LinearSearch.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MethodOverloading.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MissingNumber.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MultiDArray.executor&quot;: &quot;Run&quot;,
+    &quot;Application.NoOFOccurence.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Operators.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Pallindrome.executor&quot;: &quot;Run&quot;,
+    &quot;Application.PassByValue.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Pattern.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Performance.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Practice.executor&quot;: &quot;Run&quot;,
+    &quot;Application.PrettyPrinting.executor&quot;: &quot;Run&quot;,
+    &quot;Application.PrimeNo.executor&quot;: &quot;Run&quot;,
+    &quot;Application.PrimeNumber.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Primitive.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Recursion.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Reverse.executor&quot;: &quot;Run&quot;,
+    &quot;Application.RichestCustomerWealth.executor&quot;: &quot;Run&quot;,
+    &quot;Application.RotateImage.executor&quot;: &quot;Run&quot;,
+    &quot;Application.RotationCountInRotatedArray.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Search.executor&quot;: &quot;Run&quot;,
+    &quot;Application.SearchInMountainArray.executor&quot;: &quot;Run&quot;,
+    &quot;Application.SearchInRoatatedSortedArray.executor&quot;: &quot;Run&quot;,
+    &quot;Application.SetMismatch.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Shdowing.executor&quot;: &quot;Run&quot;,
+    &quot;Application.SmallestNoGreaterThanTarget.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Sort.executor&quot;: &quot;Run&quot;,
+    &quot;Application.SquareRoot.executor&quot;: &quot;Run&quot;,
+    &quot;Application.TypeCasting.executor&quot;: &quot;Run&quot;,
+    &quot;Application.VariableNoArguments.executor&quot;: &quot;Run&quot;,
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/rohan/Documents/Java/BasicPractice&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;SDKs&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
+  },
+  &quot;keyToStringList&quot;: {
+    &quot;ChangesTree.GroupingKeys&quot;: [
+      &quot;directory&quot;,
+      &quot;repository&quot;
+    ]
+  }
+}</component>
+  <component name="RunManager" selected="Application.FindDuplicate">
+    <configuration name="FindDuplicate" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="FindDuplicate" />
+      <module name="BasicPractice" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="JavaString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="JavaString" />
+      <module name="BasicPractice" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MissingNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MissingNumber" />
+      <module name="BasicPractice" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PrettyPrinting" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="PrettyPrinting" />
+      <module name="BasicPractice" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SetMismatch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SetMismatch" />
+      <module name="BasicPractice" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.FindDuplicate" />
+        <item itemvalue="Application.PrettyPrinting" />
+        <item itemvalue="Application.JavaString" />
+        <item itemvalue="Application.SetMismatch" />
+        <item itemvalue="Application.MissingNumber" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e5fcef36-59a8-44c9-a647-5e0c8dfdf3f3" name="Changes" comment="" />
+      <created>1764390290768</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1764390290768</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="RECENT_FILTERS">
+      <map>
+        <entry key="Branch">
+          <value>
+            <list>
+              <RecentGroup>
+                <option name="FILTER_VALUES">
+                  <option value="main" />
+                </option>
+              </RecentGroup>
+            </list>
+          </value>
+        </entry>
+        <entry key="User">
+          <value>
+            <list>
+              <RecentGroup>
+                <option name="FILTER_VALUES">
+                  <option value="*" />
+                </option>
+              </RecentGroup>
+            </list>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <watches-manager>
+      <configuration name="Application">
+        <watch expression="System.out.print(&quot;Enter the Number : &quot;);&#10;        Scanner sc = new Scanner(System.in);&#10;        int no = sc.nextInt();&#10;&#10;        if(isPrime(no)){&#10;            System.out.println(no+&quot; Is Prime Number &quot;);&#10;        }else{&#10;            System.out.println(no+&quot; Is Not a Prime Number &quot;);&#10;        }" />
+      </configuration>
+    </watches-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/BasicPractice$JavaString.ic" NAME="JavaString Coverage Results" MODIFIED="1771517926863" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="true" />
+  </component>
+</project>
